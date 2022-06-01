@@ -1,0 +1,9 @@
+1) Title
+2) Severity
+3) Priority
+4) Description
+5) Environment
+6) Steps to reproduce
+7) Expected result
+8) Actual result 
+9) Attachments
