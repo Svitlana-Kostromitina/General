@@ -34,7 +34,7 @@ console.log('addition = ' + addition)
 // 14. Вывести в консоль умножение item_3 и item_4.
 
 let addition_2 = item_3 * item_4
-console.log('addition_2 = ' + addition)
+console.log('addition_2 = ' + addition_2)
 
 // 15. Создать переменную “item_5”
 // 16. Присвоить переменной item_5 переменную item_3
