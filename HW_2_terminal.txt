@@ -142,7 +142,7 @@ grep -ilwr sec | xargs cp -t inner_dir_1
 grep -hr sec | xargs echo > file_10.txt
 
  39. Команда в одну строку. Удалить текстовые файлы у которых в содержимом есть слово “sec”
-grep -lwr sec | xargs rm  # если добавить к rm  -v, то будет выходить список удаленных файлов)
+grep -lwr sec | xargs rm -v
 
  40. Просто вывести в терминал строку “Good job!!”
 echo 'Good job!!'
