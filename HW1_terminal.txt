@@ -88,6 +88,6 @@ curl "http://162.55.220.72:5005/get_method?name=Svetlana&age=30"
 		#13) переместить любые 2 файла, которые вы создали, в любую другую папку.
 		mv {file2.txt,file3.txt} f1/
 
-	Для созранения и выхода ctrl+O enter ctrl+X
+	Для сохранения и выхода ctrl+O enter ctrl+X
 
 	3) ./script.sh
