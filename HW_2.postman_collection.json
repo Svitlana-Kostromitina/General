@@ -361,15 +361,6 @@
 							"// 20. Передать в окружение переменную salary\r",
 							"pm.environment.set('salary_1', 2000);\r",
 							"\r",
-							" //21. Написать цикл который выведет в консоль по порядку элементы списка из параметра salary.\r",
-							"   //1 вариант\r",
-							" for (let i =0;i < resp_salary.length; i++) {\r",
-							"      console.log(resp_salary[i])\r",
-							"  }    \r",
-							"    //2 вариант\r",
-							" for (let i in resp_salary) {\r",
-							"      console.log(resp_salary[i])\r",
-							"  }   \r",
 							""
 						],
 						"type": "text/javascript"
@@ -527,11 +518,6 @@
 							"     pm.expect(salary_5_years).to.eql(req_salary*4.2);\r",
 							" });\r",
 							"\r",
-							"// 22. ***Написать цикл который выведет в консоль по порядку элементы списка из параметра person.\r",
-							" \r",
-							" for (let i in jsonData.person) {\r",
-							"      console.log(jsonData.person[i]);\r",
-							"  }    \r",
 							""
 						],
 						"type": "text/javascript"
